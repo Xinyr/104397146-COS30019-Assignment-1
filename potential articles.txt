@@ -1,0 +1,44 @@
+from google scholar labs:
+The rising tide of artificial intelligence and business automation: Developing an ethical framework - SA Wright, AE Schultz
+
+Artificial intelligence governance: Ethical considerations and implications for social responsibility - MA Camilleri
+
+Why do companies employ prohibited unethical artificial intelligence practices? - M Méndez-Suárez
+
+Ethical Implications and challenges of AI implementation in business operations - ANI Purwanto, M Fauzan
+
+Paradoxes of artificial intelligence in consumer markets: Ethical challenges and opportunities
+
+Ethical implications of the fourth industrial revolution for business and society
+
+Organisational responses to the ethical issues of artificial intelligence
+
+Ethical AI in Enterprise Automation: Balancing Security, Compliance, and Bias Mitigation
+
+Community-in-the-loop: towards pluralistic value creation in AI, or—why AI needs business ethics
+
+ETHICAL ANALYTICS & DIGITAL TRANSFORMATION IN THE AGE OF AI: EMBEDDING PRIVACY, FAIRNESS, AND TRANSPARENCY TO DRIVE INNOVATION AND …
+
+
+What Rights Do AI Companies Have in Government Contracts?
+
+Can AI behave ethically during military crises? Preserving human moral agency
+
+Artificial intelligence, ethics and the future of warfare: Global perspectives (book)
+
+Agentic Generative AI in US National Security and Defense: Tools, Frameworks, and Policy Recommendations
+
+The AI Grand Bargain: What America Needs to Win the Innovation Race
+
+Red Lines and Grey Zones in the Fog of War: Benchmarking Legal Risk, Moral Harm, and Regional Bias in Large Language Model Military Decision-Making
+
+Assessing risks of using autonomous language models in military and diplomatic planning
+
+Systemic Risk and the Social Contract Systemic Risk and the Social Contract
+
+Red-teaming for generative AI: Silver bullet or security theater?
+
+From Code to Combat: Introducing the Role of AI in Cyber and Kinetic Warfare in 2024
+
+
+
